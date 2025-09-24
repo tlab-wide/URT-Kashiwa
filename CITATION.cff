@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Unprotected Right Turn ROSBag Dataset"
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: "Javanmardi"
+    given-names: "Ehsan"
+  - family-names: "Li"
+    given-names: "Dongyang"
+  - family-names: "Tsukada"
+    given-names: "Manabu"
+affiliation: "Tsukada Laboratory, The University of Tokyo"
+date-released: 2025-09-24
+version: "1.0.0"
+license: CC-BY-4.0
+url: "https://github.com/<your-org-or-username>/<your-repo>"
