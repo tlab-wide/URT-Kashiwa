@@ -24,11 +24,17 @@ Contributors: Ehsan Javanmardi, Dongyang Li, Manabu Tsukada
 ---
 
 ## 📹 Demonstration
-- **Video overview**: [![Watch the video](https://img.youtube.com/vi/1Q1ENXNBhKM/0.jpg)](https://www.youtube.com/watch?v=1Q1ENXNBhKM)
-- **Pixkit 3.0 platform**:  
-  ![Pixkit Vehicle](images/pixkit.png)  
-- **Kashiwa Campus**:  
-  ![Kashiwa Campus](images/kashiwa.jpg)  
+
+### 🎥 Full Video
+[![Watch the demo video](https://img.youtube.com/vi/1Q1ENXNBhKM/0.jpg)](https://www.youtube.com/watch?v=1Q1ENXNBhKM)
+
+### 🖼️ Platform & Environment
+| Pixkit 3.0 Vehicle | Kashiwa Campus |
+|--------------------|----------------|
+| ![Pixkit Vehicle](images/pixkit.jpg) | ![Kashiwa Campus](images/kashiwa.jpg) |
+
+### 🎞️ Quick Preview (GIF)
+![Dataset Preview](images/demo.gif)
 
 ---
 
