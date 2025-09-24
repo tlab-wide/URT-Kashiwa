@@ -24,9 +24,9 @@ Contributors: Ehsan Javanmardi, Dongyang Li, Manabu Tsukada
 ---
 
 ## 📹 Demonstration
-- **Video overview**: [YouTube link here](https://youtu.be/1Q1ENXNBhKM)  
+- **Video overview**: [![Watch the video](https://img.youtube.com/vi/1Q1ENXNBhKM/0.jpg)](https://www.youtube.com/watch?v=1Q1ENXNBhKM)
 - **Pixkit 3.0 platform**:  
-  ![Pixkit Vehicle](images/pixkit.jpg)  
+  ![Pixkit Vehicle](images/pixkit.png)  
 - **Kashiwa Campus**:  
   ![Kashiwa Campus](images/kashiwa.jpg)  
 
