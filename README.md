@@ -26,7 +26,7 @@ Contributors: Ehsan Javanmardi, Dongyang Li, Manabu Tsukada
 ## 📹 Demonstration
 
 ### 🎥 Full Video
-[Watch the demo video on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch the demo video on YouTube](https://www.youtube.com/watch?v=1Q1ENXNBhKM)
 
 ### 🖼️ Platform & Environment
 | Pixkit 3.0 Vehicle | Kashiwa Campus |
