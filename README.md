@@ -31,7 +31,7 @@ Contributors: Ehsan Javanmardi, Dongyang Li, Manabu Tsukada
 ### 🖼️ Platform & Environment
 | Pixkit 3.0 Vehicle | Kashiwa Campus |
 |--------------------|----------------|
-| ![Pixkit Vehicle](images/pixkit.jpg) | ![Kashiwa Campus](images/kashiwa.jpg) |
+| ![Pixkit Vehicle](images/pixkit.png) | ![Kashiwa Campus](images/kashiwa.jpg) |
 
 ### 🎞️ Quick Preview (GIF)
 ![Dataset Preview](images/demo.gif)
